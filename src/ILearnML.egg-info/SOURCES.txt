@@ -1,0 +1,8 @@
+pyproject.toml
+setup.cfg
+setup.py
+src/ILearnML.egg-info/PKG-INFO
+src/ILearnML.egg-info/SOURCES.txt
+src/ILearnML.egg-info/dependency_links.txt
+src/ILearnML.egg-info/requires.txt
+src/ILearnML.egg-info/top_level.txt
